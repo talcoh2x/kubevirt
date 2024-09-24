@@ -3,3 +3,6 @@ pkg/**/BUILD.bazel linguist-vendored
 staging/**/BUILD.bazel linguist-vendored
 tests/**/BUILD.bazel linguist-vendored
 tests/conformance/BUILD.bazel linguist-vendored=false
+
+test
+
